@@ -1,4 +1,3 @@
-
 # Single-Cycle RISC-V Processor (SystemVerilog)
 
 A 32-bit single-cycle RISC-V processor implemented using SystemVerilog and developed with AMD Xilinx Vivado.
